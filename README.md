@@ -11,5 +11,5 @@
 ### Blog posts
 
 * [Principles and guidelines of hardcore learning](https://medium.datadriveninvestor.com/principles-and-guidelines-of-hardcore-learning-b5ec93f4ce96)
-* [A full stack guide - Part 1](https://medium.datadriveninvestor.com/a-full-picture-of-languages-for-web-development-6228efa77150)
+* [A full stack guide - Part 1: Front-end languages](https://medium.datadriveninvestor.com/a-full-picture-of-languages-for-web-development-6228efa77150)
 
