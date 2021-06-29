@@ -1,5 +1,9 @@
-### Hi there 👋
+### Let's connect
 
+<a href=”www.linkedin.com/in/ezra-fayet”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+                                                                                              
 <!--
 **adzaria/adzaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
