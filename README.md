@@ -1,4 +1,3 @@
-Product-driven, solution-oriented full-stack developer (MERN) with devops abilities (AWS, Heroku) and strong cross-domain skills (Web-design, product ...).
 
 ### Let's connect
                                                                                                              
