@@ -2,15 +2,14 @@
 
 <p>
                                                                                                              
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ezra-fayet)
+[<img style="display:inline-block;" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ezra-fayet)
                                                                                                                                                
-[<img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://adzaria.medium.com/)
+[<img style="display:inline-block;" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://adzaria.medium.com/)
 
-[<img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/adzaria)
+[<img style="display:inline-block;" alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/adzaria)
   
 </p>
 
-<p><br/><br/><br/></p>
 
 ### Last posts
 
