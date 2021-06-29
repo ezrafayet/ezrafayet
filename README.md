@@ -10,6 +10,8 @@
   
 </p>
 
+<p><br/><br/><br/></p>
+
 ### Last posts
 
 * [Principles and guidelines of hardcore learning](https://medium.datadriveninvestor.com/principles-and-guidelines-of-hardcore-learning-b5ec93f4ce96)
