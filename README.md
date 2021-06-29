@@ -5,6 +5,8 @@
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://adzaria.medium.com/)
 
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/adzaria)
+
+🌱
                                                                                               
 <!--
 **adzaria/adzaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
