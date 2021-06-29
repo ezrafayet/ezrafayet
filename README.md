@@ -1,8 +1,12 @@
 ### Let's connect
 
 <a href=”www.linkedin.com/in/ezra-fayet”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<img alt="LinkedIn" src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
+                                                                                                             
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ezra-fayet)
+                                                                                                                                               
+[<img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://adzaria.medium.com/)
                                                                                               
 <!--
 **adzaria/adzaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
