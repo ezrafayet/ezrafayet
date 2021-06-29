@@ -1,8 +1,4 @@
 ### Let's connect
-
-<a href=”www.linkedin.com/in/ezra-fayet”>
-<img alt="LinkedIn" src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
                                                                                                              
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ezra-fayet)
                                                                                                                                                
