@@ -15,7 +15,7 @@
 * Algorithm Toolbox (Coursera)
 * Node.js / Python / PHP for web development (OpenClassrooms)
 
-<p><br/><br/></p>
+<p></p>
 
 ### Blog posts
 
