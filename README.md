@@ -9,6 +9,14 @@
   
 <p><br/><br/></p>
 
+### Certfificates
+
+* Datastructures (Coursera)
+* Algorithm Toolbox (Coursera)
+* Node.js / Python / PHP for web development (OpenClassrooms)
+
+<p><br/><br/></p>
+
 ### Blog posts
 
 * [Principles and guidelines of hardcore learning](https://medium.datadriveninvestor.com/principles-and-guidelines-of-hardcore-learning-b5ec93f4ce96)
