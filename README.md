@@ -11,7 +11,7 @@
 
 ### Certfificates
 
-* Datastructures (Coursera)
+* Data Structures (Coursera)
 * Algorithm Toolbox (Coursera)
 * Node.js / Python / PHP for web development (OpenClassrooms)
 
