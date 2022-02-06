@@ -11,8 +11,8 @@
 
 ### Certfificates
 
-* Data Structures (Coursera)
-* Algorithm Toolbox (Coursera)
+* Golang specialization (3 certificates, Coursera)
+* Data Structures & Algorithms (2 certificates, Coursera)
 * Node.js / Python / PHP for web development (OpenClassrooms)
 
 <p></p>
