@@ -1,4 +1,8 @@
 
+Hi everyone !
+
+My passion lies in tackling challenging projects, continually pushing myself to effectively expand my skill set. I am pretty hardcore at what I do and I'm always eager to take on challenges and collaborate with like-minded professionals who share my dedication, in a very positive, opened and supportive atmosphere of course. Feel free to reach out!
+
 ### Let's connect
                                                                                                              
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ezra-fayet)
@@ -11,9 +15,8 @@
 
 ### Certfificates
 
-* Golang specialization (3 certificates, Coursera)
 * Data Structures & Algorithms (2 certificates, Coursera)
-* Node.js / Python / PHP for web development (OpenClassrooms)
+* Golang specialization (3 certificates, Coursera)
 
 <p></p>
 
