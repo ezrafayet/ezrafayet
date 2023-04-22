@@ -13,16 +13,3 @@ My passion lies in tackling challenging projects, continually pushing myself to 
   
 <p><br/><br/></p>
 
-### Certfificates
-
-* Data Structures & Algorithms (2 certificates, Coursera)
-* Golang specialization (3 certificates, Coursera)
-
-<p></p>
-
-### Blog posts
-
-* [Principles and guidelines of hardcore learning](https://medium.datadriveninvestor.com/principles-and-guidelines-of-hardcore-learning-b5ec93f4ce96)
-* [A full stack guide - Part 1: Front-end languages](https://medium.datadriveninvestor.com/a-full-picture-of-languages-for-web-development-6228efa77150)
-* [10.000 hours later](https://medium.datadriveninvestor.com/10-000-hours-later-a60c4f34f71b)
-
