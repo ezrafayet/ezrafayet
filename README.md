@@ -13,3 +13,4 @@ My passion lies in tackling challenging projects, continually pushing myself to 
   
 <p><br/><br/></p>
 
+The work pinned on my GitHub is 100% original, unless it is a fork
