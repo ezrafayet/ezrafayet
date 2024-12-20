@@ -13,4 +13,4 @@ Check out some books, articles, websites I have gathered over the years, you mig
   
 <p><br/><br/></p>
 
-The work pinned on my GitHub is 100% original, unless it is a fork.
+The work pinned on my GitHub is 100% original
