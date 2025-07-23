@@ -4,12 +4,6 @@ My passion lies in tackling challenging projects, continually pushing myself to 
 
 Check out some books, articles, websites I have gathered over the years, you might enjoy them as well:
 [Check out](https://github.com/ezrafayet/knowledge-base/blob/main/bookshelf/BOOKSHELF.md)
-
-### Let's connect
-                                                                                                             
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ezrafayet)
-                                                                                                                             
-[<img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://ezrafayet.medium.com/)
   
 <p><br/><br/></p>
 
